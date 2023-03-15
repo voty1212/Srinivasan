@@ -29,3 +29,4 @@ Blockchain offers the capacity to create a “digital birth certificate” for e
 Blockchain consortia let individual companies cooperate with other companies — including competitors — on common concerns in ways that benefit the whole group. The blockchain technology strives to provide tamper-proof records of transactions. Transaction data cannot be lost or corrupted as all blockchain participants own a copy of the full transaction history. Blockchain technologies can thus create trust between possibly competing actors by providing secure ways to share data between members.
 
 Microsoft’s migration guide is available online and contains additional information on how to delete resources, download, and export data from Azure Blockchain Service.
+theme:Architect
